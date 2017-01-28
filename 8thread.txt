@@ -1,0 +1,10 @@
+Creating 5 Mandelbrot images.
+Time for image 1: 512 milliseconds
+Time for image 2: 431 milliseconds
+Time for image 3: 443 milliseconds
+Time for image 4: 491 milliseconds
+Time for image 5: 461 milliseconds
+Average: 467.6 milliseconds.
+Standard Deviation: 30.024 milliseconds.
+Writing images...Done
+Press enter to exit.
